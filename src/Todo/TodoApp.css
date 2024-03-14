@@ -1,0 +1,15 @@
+label,input,button{
+    padding:10px;
+    margin: 10px;
+}
+
+.LoginComponent{
+    margin-top: 50px;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 96%;
+    height: 10%;
+}
